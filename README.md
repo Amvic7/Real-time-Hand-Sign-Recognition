@@ -23,7 +23,7 @@ This project enables real-time hand sign language recognition, converting recogn
 ## Setup
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Amvic7/Hand-Sign-Recognition
+    https://github.com/Amvic7/Hand-Sign-Recognition
     ```
 2. Install the required dependencies:
     ```bash
