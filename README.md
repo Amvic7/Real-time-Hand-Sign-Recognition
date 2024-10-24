@@ -41,10 +41,10 @@ This project enables real-time hand sign language recognition, converting recogn
 - The trained model (`hand_sign_model.keras`) is included for prediction purposes. The model can recognize hand signs from A-Z.
 
 ## Contributors
-- [Amvic](https://github.com/Amvic7) (Author)
+- [Amvic](https://github.com/Amvic7)
 - [Atharv Dhupkar](https://github.com/atharv-dhupkar22)
-- [Atharva Tiwari](https://github.com/AT8Cool)
-- [Gaurav Joshi](https://github.com/Slugget98)
+- [Atharva Bhosale](https://github.com/AT8Cool)
+- [Gauresh Bhoir](https://github.com/Slugget98)
 
 ## License
 This project is licensed under the MIT License.
