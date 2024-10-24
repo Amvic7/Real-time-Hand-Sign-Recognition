@@ -23,7 +23,7 @@ This project enables real-time hand sign language recognition, converting recogn
 ## Setup
 1. Clone this repository:
     ```bash
-    https://github.com/Amvic7/Hand-Sign-Recognition
+    git clone https://github.com/Amvic7/Real-time-Hand-Sign-Recognition.git
     ```
 2. Install the required dependencies:
     ```bash
@@ -39,6 +39,12 @@ This project enables real-time hand sign language recognition, converting recogn
 
 ## Model
 - The trained model (`hand_sign_model.keras`) is included for prediction purposes. The model can recognize hand signs from A-Z.
+
+## Contributors
+- [Amvic](https://github.com/Amvic7) (Author)
+- [Atharv Dhupkar](https://github.com/atharv-dhupkar22)
+- [Atharva Tiwari](https://github.com/AT8Cool)
+- [Gaurav Joshi](https://github.com/Slugget98)
 
 ## License
 This project is licensed under the MIT License.
