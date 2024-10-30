@@ -15,10 +15,10 @@ This project enables real-time hand sign language recognition, converting recogn
 4. Press `E` to erase the current sentence.
 
 ## Requirements
-- Python 3.x
-- TensorFlow
-- OpenCV
-- MediaPipe
+- Python 3.12.2
+- TensorFlow 2.17.0
+- OpenCV 4.10.0
+- MediaPipe 0.10.14
 
 ## Setup
 1. Clone this repository:
